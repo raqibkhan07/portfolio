@@ -376,7 +376,7 @@ nav .fa-solid{
     display: block;
     }
     nav ul{
-        background-color: #ff004f;
+        background-color: transparent;
         color: white;
         position: fixed;
         top: 0;
