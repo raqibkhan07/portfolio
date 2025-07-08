@@ -364,6 +364,8 @@ nav .fa-solid{
         background-image:url(img/raqib1-removebg-preview-removebg-preview.png);
 
     }
+    .image{
+        display:none;
     .header-text{
         margin-top: 30%;
         font-size: 15px;
